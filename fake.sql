@@ -18,6 +18,7 @@ VALUES
 ('mihee3','address3',0300000000,'homeaddress3','email3@naver.com'),
 ('mihee4','address4',0400000000,'homeaddress4','email4@naver.com');
 
+# 관리자 만들어 준기 
 
 
 ## item_info랑direct_deal 한번에 값 넣기
